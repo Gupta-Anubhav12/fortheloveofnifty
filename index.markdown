@@ -21,4 +21,4 @@ layout: home
       }
       </style>
   [check this@Instagram](https://www.instagram.com/financial_literate/?hl=en)
-  Till the end of lockdown I'll try to post daily.:)
+  
