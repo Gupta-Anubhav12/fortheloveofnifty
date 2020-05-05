@@ -23,7 +23,7 @@ email: anubhavgupta2260@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  This blog is for those who won't work for money but their money will work for them
  Heading for a financially independent generation and a Money Smart India
-baseurl: "" #fortheloveofnifty" # the subpath of your site, e.g. /blog
+baseurl: "fortheloveofnifty" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 instagram_username: anubhav.guptaa  
