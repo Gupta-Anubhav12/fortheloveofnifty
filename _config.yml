@@ -30,7 +30,9 @@ instagram_username: anubhav.guptaa
 
 # Build settings
 #theme: minimal-mistakes-jekyll
-theme: jekyll-theme-cayman
+
+theme: minima
+
 plugins:
   - jekyll-feed
   
