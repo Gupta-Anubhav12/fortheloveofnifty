@@ -17,8 +17,10 @@ layout: home
     
       body{
          
-        background-image: url("https://i.postimg.cc/KctDHRkK/dose-media-b-U6-Jyh-SI6zo-unsplash.jpg");
+        background-image: url("https://i.postimg.cc/4y8TvQf2/rupee-4395492.jpg");
       }
       </style>
   [check this@Instagram](https://www.instagram.com/financial_literate/?hl=en)
-  
+ 
+ 
+ 

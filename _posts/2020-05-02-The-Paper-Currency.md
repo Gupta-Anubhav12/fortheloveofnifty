@@ -18,40 +18,41 @@ author: Anubhav-Gupta
         background-image: url("https://i.postimg.cc/jj0N2js1/mona-eendra-v-C8wj-Kphak-unsplash.jpg");
       }
       </style>
-Day 2
-Date 2/5/2020;
-Topic :: Paper and electronic currency
+**Day 2**<br/>
+**Dated 2/5/2020;**<br/>
+**Topic** :: Paper and electronic currency<br/>
 Yesterday we discussed the evolution of money from barter system to coins. Today we seek to explore the functioning of paper money or Legal Tender.
 Term for today
 Fiduciary money: Fiduciary money refers to money backed up by trust between the payer and payee
-Types
+Types<br/>
 1. Non Legal Tender ->like cheque, Demand draft, etc. in this type a person can refuse to accept the payment in India and can ask for alternatives like cash.
-2. Legal Tender-> this contains coins and currency notes.  
+2. Legal Tender-> this contains coins and currency notes.  <br/>
 
-The legal tender of a currency is further of two types
-1. Limited Legal Tender:: under coinage act states that it (coins) can be use to settle a limited amount of debt like anyone can legally reject a payment in 50p for amount above Rs 10. And same goes for other coin denominations with limit of 1000rs.
-2.Unlimited legal Tender::Under RBI act 1934 Every note is unlimited legal tender but with reasonable restriction of rs 3L after denomination
+The legal tender of a currency is further of two types<br/>
+1. Limited Legal Tender:: under coinage act states that it (coins) can be use to settle a limited amount of debt like anyone can legally reject a payment in 50p for amount above Rs 10. And same goes for other coin denominations with limit of 1000rs.<br/>
+2.Unlimited legal Tender::Under RBI act 1934 Every note is unlimited legal tender but with reasonable restriction of rs 3L after denomination<br/>
 
 Fiat currency:: currency notes form a system if fiat currency where binding to the command of government a currency can settle debt which no one can refuse.
 
 The issuance of Indian Fiat Currency
 1.Coinage act 1906 Government can issue the following denominations
-1. All coins up to value of 1k
-2. Rs 1 note (ever noticed Rs 1 note is signed by finance secretary not by RBI governor)
+1. All coins up to value of 1k<br/>
+2. Rs 1 note (ever noticed Rs 1 note is signed by finance secretary not by RBI governor)<br/>
 
 <img style="float:right;" src="https://i.postimg.cc/dthDTvt6/New-Bitmap-Image.png" width="350" height="200">
 
 
 
 
- 2. RBI act 1934:: from rupees 2 to 10000 all notes can be issued by RBI     signed by the Governor OF RBI
+ 2. RBI act 1934:: from rupees 2 to 10000 all notes can be issued by RBI     signed by the Governor OF RBI<br/>
 
 Any currency note issued by any government should be supported by a physical asset underneath in the government reserves.
 Have you ever read the clause on a currency note?
 I promise to pay the bearer the sum of ____rupees
-                            
-                            
-                            Signed by Governor of RBI
+
+
+
+ **Signed by Governor of RBI**<br/>
 
 
 
@@ -62,7 +63,7 @@ Earlier the physical asset used was GOLD..yes RBI had permission to print curren
 But now we have shifted to Minimum Foreign reserve system
 Here instead of Gold the INR is backed by securities (investments) in foreign reserves.
 
-                               Bank Money and Digital Transactions
+ **Bank Money and Digital Transactions**
 
 Cheque ::  it is a legally binding non fiat type of medium of exchange of money. There can be three types of non fiat money.
 1.	Simple bank cheque: 3Parties : We all are familiar with this type
@@ -70,7 +71,7 @@ Cheque ::  it is a legally binding non fiat type of medium of exchange of money.
 <img style="float:right;" src="https://i.postimg.cc/26Nn0y3C/Format-Bills-of-Exchange.png" width="600" height="200">
 3.	Promissory note:: It is a signed document containing a written promise to pay a stated sum to a specified person or the bearer at a specified date or on demand
 
-                                                 Types of Cheques
+**Types of Cheques**
 Classification
 1.	Based on date :
 1.	 stale dated ::expired cheque, The one which has passed 3 Months from the date of issue.
@@ -97,7 +98,7 @@ And yes I can unmask my account number if someone wants to pay?  #pun intended�
 Bouncing of a Cheque:: when the person issuing a cheque has insufficient funds the cheque can not be cleared hence is referred to as a bounced cheque. This is legally punishable and a offence under the IPC.
 To avoid bouncing and messed up payments several companies ask and prefer payments by DD or Demand Draft it is a similar instrument as a cheque but in this the amount is deducted first before issuing and bank also levies a reasonable charge for generating it.
 
-Hope this helps.
-It’s  just an effort
-Anubhav Gupta
-If any query or doubt call @ 7889187722
+Hope this helps.<br/>
+It’s  just an effort<br/>
+Anubhav Gupta<br/>
+If any query or doubt call @ 7889187722<br/>
