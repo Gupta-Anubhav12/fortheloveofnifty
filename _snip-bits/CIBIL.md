@@ -1,4 +1,5 @@
 ---
+layout: post
 name: CIBIL
 author: Anubhav Gupta
 ---
