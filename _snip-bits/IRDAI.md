@@ -11,7 +11,7 @@ author: Anubhav Gupta
   }
   </style>
 
-<img style="float:left;" src="https://en.wikipedia.org/wiki/File:IRDA_New_logo.jpg">
+<img style="float:left;" src="https://i.postimg.cc/MKzVyX54/irdai-1200.jpg">
 
 
 IRDAI stands for Insurance Regulatory Development Authority of India.<br/>

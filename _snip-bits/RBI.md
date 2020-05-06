@@ -1,6 +1,6 @@
 ---
 layout: post
-name: RBI 
+title: RBI 
 author: Anubhav Gupta
 
 ---
@@ -9,7 +9,7 @@ author: Anubhav Gupta
     background-image: url("https://i.postimg.cc/ZRvJnc6t/piggy-bank-3117656.jpg");
   }
   </style>
-<img  style="float:left;" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fqph.fs.quoracdn.net%2Fmain-qimg-9e43fbb0177a5ddffc4deb4e48a38627&imgrefurl=https%3A%2F%2Fwww.quora.com%2FWhat-does-the-RBI-logo-refer-to&tbnid=EsnmCQ5ILX7W9M&vet=12ahUKEwjxk8C7-5_pAhUQEnIKHc29BZ0QMygAegUIARCFAg..i&docid=eMaqFxDc21YYWM&w=420&h=420&q=rbi%20logo&ved=2ahUKEwjxk8C7-5_pAhUQEnIKHc29BZ0QMygAegUIARCFAg">
+<img  style="float:left;" src="https://i.postimg.cc/rFgWgcYp/main-qimg-9e43fbb0177a5ddffc4deb4e48a38627.png">
 RBI stands for RESERVE BANK OF INDIA<br/>
 
 RBI was established in 1934 under the RBI act and is a sole Central bank of our country that regulates the whole Banking sector and has responsibly of maintaining correct cash flow to fight inflation.RBI has major role in banking reforms and fighting the NPA<br/>

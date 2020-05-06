@@ -1,6 +1,6 @@
 ---
 layout: post
-name: SEBI
+title: SEBI
 author: Anubhav Gupta
 
 ---
@@ -9,7 +9,7 @@ author: Anubhav Gupta
     background-image: url("https://i.postimg.cc/ZRvJnc6t/piggy-bank-3117656.jpg");
   }
   </style>
-<img  style="float:left;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.xadaxbranddesign.com%2Fdt_gallery%2Four-gallery%2Fsebi%2F&psig=AOvVaw0dDe4V2IuIlNqyjsCS6a0W&ust=1588879751443000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjvn8T8n-kCFQAAAAAdAAAAABAD">
+<img  style="float:left;" src="https://i.postimg.cc/ZnxNGhbV/sebi.png">
 
 SEBI: Securities and Exchange Board of India<br/>
 Established in 1998<br/>
