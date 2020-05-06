@@ -6,19 +6,8 @@ layout: home
 ---
 
 <style>
-    header{
-      
-    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
-/*    .main::before{
-            content: "";
-            position: absolute;
-            background-image: url("https://images.unsplash.com/photo-1561414927-6d86591d0c4f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1566&q=80");
-            /* background-color: rgba(1, 1, 1); */
-            /*height:100%;*/
-            /*width: 100%;*/
-            /*z-index: -1;*/
-            /* opacity: 0.5; */
-          /*}*/
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+  
     header {
 
       background-color: rgba(252, 250, 250, 0.8);
@@ -66,7 +55,7 @@ layout: home
     .page-content{
       /* border: 2px solid red; */
       /* margin: 0px 250px; */
-      background-color:rgba(1,1,1,0.4);
+      
     }
     main{
       height: 600px;
@@ -78,7 +67,7 @@ layout: home
      body {
 
 
-      background-image: url("https://images.unsplash.com/photo-1575472782454-230f8dd14bd7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
+      background-image: url("https://i.postimg.cc/4y8TvQf2/rupee-4395492.jpg");
       background-size: cover;       
       /* background-color: rgba(1, 1, 1);  */
             height:100%;
