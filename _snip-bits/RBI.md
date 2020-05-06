@@ -5,7 +5,7 @@ author: Anubhav Gupta
 
 ---
 <style>
-  body{
+ div{
     background-image: url("https://i.postimg.cc/ZRvJnc6t/piggy-bank-3117656.jpg");
   }
   </style>
