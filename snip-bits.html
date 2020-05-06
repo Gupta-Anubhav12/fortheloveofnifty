@@ -1,0 +1,34 @@
+---
+layout: page
+title: Fin-bits
+---
+<p> 
+<span style="font-size: medium;font-weight: bolder;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">
+    This section Provides general articles and information about Financial Regulatories and general terminology
+</span>
+</p>
+<style>
+    header{
+      
+     background-color: rgba(249, 241 ,241 , 0.7);
+         font-weight: bolder;
+         font-size: larger;
+         font-family: fantasy;
+        
+        }
+    
+      body{
+         
+        background-image: url("https://i.postimg.cc/vZCbShWp/piggy-bank-2889042.jpg");
+      }
+      </style>
+     
+
+{% for snip-bits in site.snip-bits %}
+  <h2>
+    <a href="{{ snip-bits.url }}">
+      {{ snip-bits.name }} - {{ snip-bits.position }}
+    </a>
+  </h2>
+  <p>{{ snip-bit.content | markdownify }}</p>
+{% endfor %}
