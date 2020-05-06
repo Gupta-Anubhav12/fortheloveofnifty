@@ -8,6 +8,7 @@ On this page I try to provide short articles and refrences about financial Regul
 </span><br/>
 
 The Regulatory Bodies in INDIA are
+
 <span style="font-size:20px;">
 [RBI-The Reserve Bank of India](/fortheloveofnifty/snip-bits/2020-05-06-RBI.html)
 </span>

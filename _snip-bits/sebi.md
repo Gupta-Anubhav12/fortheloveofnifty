@@ -1,8 +1,7 @@
 ---
 layout: post
-name: RBI 
-date: 2020-05-06 18:11
+name: sebi
 author: Anubhav Gupta
-permalink: /fortheloveofnifty/snip-bits/sebi.html
+
 ---
 under development
