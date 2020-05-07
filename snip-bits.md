@@ -16,5 +16,20 @@ Regulatories are satutory and powerfull organizations that controll and regulate
 
  [The Regulatory Bodies in INDIA are](/fortheloveofnifty/snip-bits/_Regulatories/Regulatories.html)
 
- 
+ [RBI-The Reserve Bank of India](/fortheloveofnifty/snip-bits/_Regulatories/RBI.html)<br/>
+
+
+ [SEBI-Securities and Exchange board of India](/fortheloveofnifty/snip-bits/sebi.html)<br/>
+
+
+
+ [IRDAI-Insurance Development and Regulatory Authority of India](/fortheloveofnifty/_Regulatories/snip-bits/IRDAI.html)<br/>
+
+
+
+
+ [PFRDA-Pension Fund regulatory authority of India](/fortheloveofnifty/snip-bits/_Regulatories/PFRDA.html)<br/>
+
+
+ [SEBI-Securities and Exchange Board of India ](/fortheloveofnifty/snip-bits/_Regulatories/sebi.html)<br/>
  

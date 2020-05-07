@@ -20,9 +20,7 @@
 collections:
  snip-bits:
    output: true
-collections:
-  Regulatories:
-    output: true
+
 title: For-The-Love-Of-Nifty:)
 email: anubhavgupta2260@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
