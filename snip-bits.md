@@ -31,5 +31,9 @@ Regulatories are satutory and powerfull organizations that controll and regulate
  [PFRDA-Pension Fund regulatory authority of India](/fortheloveofnifty/snip-bits/PFRDA.html)<br/>
 
 
- [SEBI-Securities and Exchange Board of India ](/fortheloveofnifty/snip-bits/sebi.html)<br/>
- 
+<br/>
+These several articles listed below are Fin-Bits or The FUN_BITS. In these articles against the usual flow of the daily posts, Here we'll explore some interesting and useful in Daily life as well as makes us aware about subtle aspects of Financial Knowledge in Daily life <br/>
+
+1..We all have seen and tried to get rid of the dirty and soiled notes but there are some official guidelines read from the link below to find out :) <br/>
+[Soiled and mutilated notes](/fortheloveofnifty/snip-bits/soiled-mutilated.html)
+<br/>
