@@ -14,7 +14,7 @@ title: Fin-bits
 Regulatories are satutory and powerfull organizations that controll and regulate their respective fields. These are set up and empowered by The HONOURABLE CONSTITUTION of India
   <br/>
 
- [The Regulatory Bodies in INDIA are](/fortheloveofnifty/snip-bits/_regulatories/Regulatories.html)
+ [The Regulatory Bodies in INDIA are](/fortheloveofnifty/snip-bits/_Regulatories/Regulatories.html)
 
  
  
