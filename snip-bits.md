@@ -10,26 +10,26 @@ title: Fin-bits
   </style>
 <span style="font-size:22px;">
 <br/><br/>
-**UNDER DEVELOPMENT**
+**UNDER DEVELOPMENT**CAN SHOW PAGE NOT FOUND ERROR-404**
 Regulatories are satutory and powerfull organizations that controll and regulate their respective fields. These are set up and empowered by The HONOURABLE CONSTITUTION of India
   <br/>
 
  [The Regulatory Bodies in INDIA are](/fortheloveofnifty/snip-bits/_Regulatories/Regulatories.html)
 
- [RBI-The Reserve Bank of India](/fortheloveofnifty/snip-bits/_Regulatories/RBI.html)<br/>
+ [RBI-The Reserve Bank of India](/fortheloveofnifty/snip-bits/RBI.html)<br/>
 
 
  [SEBI-Securities and Exchange board of India](/fortheloveofnifty/snip-bits/sebi.html)<br/>
 
 
 
- [IRDAI-Insurance Development and Regulatory Authority of India](/fortheloveofnifty/_Regulatories/snip-bits/IRDAI.html)<br/>
+ [IRDAI-Insurance Development and Regulatory Authority of India](/fortheloveofnifty/snip-bits/IRDAI.html)<br/>
 
 
 
 
- [PFRDA-Pension Fund regulatory authority of India](/fortheloveofnifty/snip-bits/_Regulatories/PFRDA.html)<br/>
+ [PFRDA-Pension Fund regulatory authority of India](/fortheloveofnifty/snip-bits/PFRDA.html)<br/>
 
 
- [SEBI-Securities and Exchange Board of India ](/fortheloveofnifty/snip-bits/_Regulatories/sebi.html)<br/>
+ [SEBI-Securities and Exchange Board of India ](/fortheloveofnifty/snip-bits/sebi.html)<br/>
  
