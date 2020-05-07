@@ -5,13 +5,12 @@ title: Fin-bits
 ---
 <style>
   body{
-    background-image: url("https://i.postimg.cc/gJmfj4Kr/lum3n-RBu-Q2-PK-L8-unsplash-1.jpg");
+    background-image: url("https://i.postimg.cc/9fTSxVSK/course-1015601.jpg");
   }
-  </style>
-<span style="font-size:22px;">
-<br/><br/>
-**UNDER DEVELOPMENT**CAN SHOW PAGE NOT FOUND ERROR-404**
-Regulatories are satutory and powerfull organizations that controll and regulate their respective fields. These are set up and empowered by The HONOURABLE CONSTITUTION of India
+</style>
+<strong><em>
+UNDER DEVELOPMENTCAN SHOW PAGE NOT FOUND ERROR-404
+Regulatories are satutory and powerfull organizations that controll and regulate their respective fields. These are set up and empowered by The HONOURABLE CONSTITUTION of India</em></strong>
   <br/>
 
  [The Regulatory Bodies in INDIA are](/fortheloveofnifty/snip-bits/_Regulatories/Regulatories.html)
@@ -32,8 +31,8 @@ Regulatories are satutory and powerfull organizations that controll and regulate
 
 
 <br/>
-These several articles listed below are Fin-Bits or The FUN_BITS. In these articles against the usual flow of the daily posts, Here we'll explore some interesting and useful in Daily life as well as makes us aware about subtle aspects of Financial Knowledge in Daily life <br/>
-
-1..We all have seen and tried to get rid of the dirty and soiled notes but there are some official guidelines read from the link below to find out :) <br/>
-[Soiled and mutilated notes](/fortheloveofnifty/snip-bits/soiled-mutilated.html)
+<strong><em>These several articles listed below are Fin-Bits or The FUN_BITS. In these articles, against the usual flow of the daily posts, we'll explore some interesting and useful facts for Daily life as well as they will makes us aware about subtle aspects of Financial Knowledge in Daily life </em></strong>
 <br/>
+<em>1..We all have seen and tried to get rid of the dirty and soiled notes but there are some official guidelines read from the link below to find out :) <br/>
+[Soiled and mutilated notes](/fortheloveofnifty/snip-bits/soiled-mutilated.html)
+</em><br/>
