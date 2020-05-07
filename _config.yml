@@ -18,6 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 collections:
+  Regulatories:
+    output: true
  snip-bits:
    output: true
 title: For-The-Love-Of-Nifty:)
