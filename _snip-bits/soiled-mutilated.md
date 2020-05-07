@@ -24,7 +24,7 @@ There are Two categories defined for damaged currency notes as follows:<br/>
 2. Mutilated Notes: The notes that have been torn to pieces or a part of them exists.<br/><br/><br/><br/>
 
 <img style="float:left" src="https://i.postimg.cc/6p1Xx222/Whats-App-Image-2020-05-08-at-00-05-44-1.jpg" height="275" width="350">
-
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 the note in above photo is mutilated with probably more than 50% of the area.but I won't get a full refund!! because a key element the **NUMBER is MISSING**
 
 so according to condition of the notes we define the value that they fetch on being presented at exchange counter of an authorised Bank or at RBI's branch.
