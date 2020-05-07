@@ -6,10 +6,14 @@ author: Anubhav Gupta
 ---
 
 <style>
- div{
-    background-image: url("https://i.postimg.cc/ZRvJnc6t/piggy-bank-3117656.jpg");
-  }
-  </style>
+   header{
+      
+     background-color: rgba(249, 241 ,241 , 0.7);
+         font-weight: bolder;
+         font-size: larger;
+         font-family: fantasy;
+        }
+      </style>
 
 <img style="float:left;" src="https://i.postimg.cc/MKzVyX54/irdai-1200.jpg">
 

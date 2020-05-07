@@ -5,7 +5,7 @@ title: Fin-bits
 ---
 <style>
   body{
-    background-image: url("https://i.postimg.cc/ZRvJnc6t/piggy-bank-3117656.jpg");
+    background-image: url("https://i.postimg.cc/gJmfj4Kr/lum3n-RBu-Q2-PK-L8-unsplash-1.jpg");
   }
   </style>
 <span style="font-size:22px;">

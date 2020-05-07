@@ -67,7 +67,7 @@ layout: home
      body {
 
 
-      background-image: url("https://i.postimg.cc/4y8TvQf2/rupee-4395492.jpg");
+      background-image: url("https://i.postimg.cc/MT6FqHWQ/rupee-4395520.jpg");
       background-size: cover;       
       /* background-color: rgba(1, 1, 1);  */
             height:100%;
