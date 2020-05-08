@@ -26,10 +26,10 @@ author: Anubhav Gupta
 
 The word **stock exchange** floats around quite often but we all tend to ignore the significance of it's existance. Today we will discuss the functioning and a brief history of Indian stock exchanges.
 The Mighty **Bombay Stock Exchange** was the first stock exchange Of Asia and was set up in 1875 under a Banyan tree. The brokers (the one who sells and purchase stocks for clients) use to shout out the prices of shares and the whole scene would not be much different to a "Sabzi Mandi". Usual fights and brawls were a daily scene and was a part of life of investors and brokers.<br/>
-<img style="float:left" src="https://i.postimg.cc/3xBc4P1m/images.jpg" height="300" width="350";
+<img style="float:left" src="https://i.postimg.cc/3xBc4P1m/images.jpg" height="300" width="350";>
 
 
-<img style="float:left" src="https://i.postimg.cc/hGt39pZw/download.jpg" height="300" width="350";
+<img style="float:left" src="https://i.postimg.cc/hGt39pZw/download.jpg" height="300" width="350";>
 
 
 The platform of trading that we see today with all the complex comuter screens and techie stuff started in India with the establishment of NSE(National Stock Exchange) in 1995.<br/>
