@@ -37,6 +37,8 @@ Regulatories are satutory and powerfull organizations that controll and regulate
 [Soiled and mutilated notes](/fortheloveofnifty/snip-bits/soiled-mutilated.html)
 </em><br/><br/>
 <em><br.>
+
 2...Ever held a coin in your hand and felt, Where it was made, Well you can if 
 you read till end [Coin Mints](/fortheloveofnifty/snip-bits/coin-mints.html))
+
 </em><br/>
