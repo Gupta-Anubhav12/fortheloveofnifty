@@ -40,7 +40,7 @@ Earlier there used to be physical shares like a currency note or a Fixed deposit
 
 
 
-So NSE sttarted trading in DEMAT format (Dematerialize) or in electronic form and BSE followed the same pattern. Electronic trading is easier and quick. <em>Today BSE is world's fastest stock exchange</em> it has a median trading speed of 6 maicro seconds.<br/>
+So NSE sttarted trading in DEMAT format (Dematerialized form) or in electronic form and BSE followed the same pattern. Electronic trading is easier and quick. <em>Today BSE is world's fastest stock exchange</em> it has a median trading speed of 6 micro seconds.<br/>
 
 
 <em>So what's the function of a stock Exchange?? Why do we need them??</em><br/>
@@ -49,13 +49,13 @@ The stock exchange also regulates trading and prevents frauds under the guidelin
 
 There are 2 Natiopnal stock Exchanges in India and 22 regional Stock exchanges. My city also has one in Ludhiana.<br/>
  When talking of markets there must be discipline and a strict routine?? lets zoom into  a day of stock Exchange<br/>
- Market is open for 5 days a week and also observes major festivals as holidays.<br/>
- The day at stock Exchange starts with a pre opening session at 9:00 am with a pre opening session, here all the investors and traders pool requests of buy and sell for first 8 minutes, this session closes randomly between  7<sup>th</sup> and 8<sup>th</sup> minutes. <br/>
- the next 7-8 minutes till 9:15 are used to analyze and match the buy and sell orders based on demand and supply.<br/>
- The **opening Bell is rung** at 9:15 am and the trading continues till the **closing bell** of 3:30 pm <br/>
+ Market is open for 5 days a week and also observes major festivals as holidays.<br/><br/><br/>
+ The day at stock Exchange starts with a pre opening session at 9:00 am with a pre opening session, here all the investors and traders pool requests of buy and sell for first 8 minutes, this session closes randomly between  7<sup>th</sup> and 8<sup>th</sup> minutes. <br/><br/>
+ the next 7-8 minutes till 9:15 are used to analyze and match the buy and sell orders based on demand and supply.<br/><br/>
+ The **opening Bell is rung** at 9:15 am and the trading continues till the **closing bell** of 3:30 pm <br/><br/>
 
- From 3:40-4:00 pm there is a **post close** session Here AMO (After market orders are placed) these are executed at Next day's opening.<br/>
+ From 3:40-4:00 pm there is a **post close** session Here AMO (After market orders are placed) these are executed at Next day's opening.<br/><br/>
 
- this was a day in life of a day trader, Hope you liked this lifestyle of working from 9-3 for five days a week.<br/>
+ this was a day in life of a day trader, Hope you liked this lifestyle of working from 9-3 for five days a week.<br/><br/>
 
 Happy learning
