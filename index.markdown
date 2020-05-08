@@ -4,9 +4,7 @@
 
 layout: home
 ---
-<footer>
-<div style="line-height:16px;text-float:right;"><a title="Social network guests ipv6 trackers" href="https://www.tracemyip.org/tools/website-visitors-counter-traffic-tracker-statistics/"><img src="//s2.tracemyip.org/tracker/1320/4684NR-IPIB/90554/10/njsUrl/" alt="social network guests ipv6 trackers" style="border:0px;"></a></div>
-</footer>
+
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
   
