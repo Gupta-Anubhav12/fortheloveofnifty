@@ -34,6 +34,7 @@ Regulatories are satutory and powerfull organizations that controll and regulate
 <strong><em>These several articles listed below are Fin-Bits or The FUN_BITS. In these articles, against the usual flow of the daily posts, we'll explore some interesting and useful facts for Daily life as well as they will makes us aware about subtle aspects of Financial Knowledge in Daily life </em></strong>
 <br/>
 <em>1..We all have seen and tried to get rid of the dirty and soiled notes but there are some official guidelines read from the link below to find out :) <br/><br/>
+
 [Soiled and mutilated notes](/fortheloveofnifty/snip-bits/soiled-mutilated.html)
 </em><br/><br/>
 <em><br.>
