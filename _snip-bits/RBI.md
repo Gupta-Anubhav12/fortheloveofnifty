@@ -2,6 +2,7 @@
 layout: post
 title: RBI 
 author: Anubhav Gupta
+comments: true
 
 ---
 <style>
@@ -25,3 +26,19 @@ The Preamble of the Reserve Bank of India describes the basic functions of the R
 
 [official site](https://www.rbi.org.in/)
 
+
+
+{% if page.comments %}
+
+<div id="disqus_thread"></div>
+<script>
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://https-gupta-anubhav12-github-io-fortheloveofnifty.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+{% endif %}

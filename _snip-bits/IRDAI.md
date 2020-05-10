@@ -2,6 +2,7 @@
 layout: post
 title: IRDA 
 author: Anubhav Gupta
+comments: true
 
 ---
 
@@ -24,3 +25,18 @@ This satutory body designes the code of conduct of loss inspectors and pormotes 
 
 Headquarters	Sy No. 115/1, Financial District, Nanakramguda, Gachibowli, Hyderabad – 500032
 [official site](https://www.irdai.gov.in/)
+
+{% if page.comments %}
+
+<div id="disqus_thread"></div>
+<script>
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://https-gupta-anubhav12-github-io-fortheloveofnifty.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+{% endif %}
