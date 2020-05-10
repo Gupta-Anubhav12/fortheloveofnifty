@@ -4,9 +4,7 @@ title: About Me
 permalink: /about/
 ---
 <style>
-  div{
-    /*background-image: url("https://i.postimg.cc/tgkVNk0N/marten-bjork-6d-W3xy-Qvc-YE-unsplash.jpg");*/
-  }
+  
   body{
     background-image: url(https://i.postimg.cc/tgkVNk0N/marten-bjork-6d-W3xy-Qvc-YE-unsplash.jpg);
     -webkit-background-size: cover;
@@ -14,6 +12,13 @@ permalink: /about/
   -o-background-size: cover;
   background-size: cover;
   }
+   html,body
+              {
+              top: 0;
+              bottom: 0;
+              left: 0;
+              right: 0;
+            }
 a{
   text-decoration: none;
 }
@@ -47,21 +52,26 @@ a{
     text-decoration: none;
  }
 
-  
-  header{
-    /* background-color: rgba(1, 1,1, 0.7); */
-  }
   .site-header{
     background-color: rgba(252, 250, 250, 0.9);
   }
   .post-content{
     background-color: rgba(252, 250, 250, 0.9);
     padding: 50px 80px;
+        text-align: justify;
+
   }
   footer{
     background-color: rgb(223, 219, 217);
 
   }
+  @media only screen and (max-width: 600px) {
+              .post-content {
+                background-color: rgba(252, 250, 250, 0.9);
+                padding: 10px;
+                text-align: justify;
+              }
+            }
   </style>
 <img style="float:left; margin-right: 20px" src="https://i.postimg.cc/dQ64Vb54/Whats-App-Image-2020-05-03-at-18-49-17.jpg" height="100" width="100">
 
