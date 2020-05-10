@@ -104,3 +104,18 @@ Hope this helps.<br/>
 It’s  just an effort<br/>
 Anubhav Gupta<br/>
 If any query or doubt call @ 7889187722<br/>
+
+{% if page.comments %}
+
+<div id="disqus_thread"></div>
+<script>
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://https-gupta-anubhav12-github-io-fortheloveofnifty.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+{% endif %}
