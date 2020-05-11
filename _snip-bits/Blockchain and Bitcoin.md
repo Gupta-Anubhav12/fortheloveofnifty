@@ -49,9 +49,9 @@ There comes the new cryptocurrency called Ether which uses a specially designed 
 A bitcoin or a cryptocurrency block looks like the snip shown below. The first block of any cryptocurrency is called the genesis Block and is independent of parent hash, because no block Existed before it.<br/>
 the image below shows the latest block of bitcoin and it has 2066 transactions added to the public immutable ledger. In laymans terms Hash is a code which links the previous block to this one.<br/>
 
-<img style="float:left;"src="https://i.postimg.cc/vHnC9D9g/Screenshot_2020-05-11-20-20-12-04.jpg">
 
 
+<img style="float:left;" src="https://i.postimg.cc/vHnC9D9g/Screenshot_2020-05-11-20-20-12-04.jpg" >
   
 
 
