@@ -47,7 +47,8 @@ Example you are hosting an auction and require the clients to be older than 18 b
 There comes the new cryptocurrency called Ether which uses a specially designed OOP language called **Solidity** which can create classes based on user defined logics called **Smart Contracts**. These can be like rejecting underage buyers, getting Time delays and initiate deffered payments etc.<br/><br/>
 
 A bitcoin or a cryptocurrency block looks like the snip shown below. The first block of any cryptocurrency is called the genesis Block and is independent of parent hash, because no block Existed before it.<br/>
-the image below shows the latest block of bitcoin and it has 2066 transactions added to the public immutable ledger. In laymans terms Hash is a code which links the previous block to this one.
+the image below shows the latest block of bitcoin and it has 2066 transactions added to the public immutable ledger. In laymans terms Hash is a code which links the previous block to this one.<br/>
+
 <img style="float:left;"src="https://i.postimg.cc/vHnC9D9g/Screenshot_2020-05-11-20-20-12-04.jpg">
 
 
