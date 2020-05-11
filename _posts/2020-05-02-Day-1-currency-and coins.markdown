@@ -19,10 +19,12 @@ comments: true
       }
       </style>
 
-so it's the day one
+So it's the day one
 let's talk about money..?? What is it ??A piece of paper or an algorithmic increment of your bank balance??
 
-so starting from the evolution of money after eradication of barter system,it has evolved to a imaginary number sitting somewhere in a server around the globe...
+so starting from the evolution of money after eradication of barter system,it has evolved to a imaginary number sitting somewhere in a server around the globe..
+
+<br/>.
 lets discuss some terms
 1. Fungibility in simple terms it is the property of a unit of money that states that if a unit of money is divisible and all subunits have equal purchasing power with mutual substitution (one subunit can be exchanged with other.) then the unit is fungible
 
@@ -37,24 +39,25 @@ there are secondary functions like
 
 so money evolved form commodity
 aztecs used coco seeds as money (chocolate is still love :))
-but commodity money was
-1. had intrinsic value
-2. was perishable
-3.there were chances of hyperinflation(prices rising sky high)
-4.was bulky to take with
+but commodity money 
+1. Had intrinsic value
+2. Was perishable
+3. There were chances of hyperinflation(prices rising sky high)
+4. Was bulky to take with
 also this did not promote division of labor. eg, everyone will grow their own coco seeds the who will do other professions..
 
-then came metallic money or coins
-The Gupta period introduced gold coins
-Sher Shah Suri introduced first silver coins
+then came metallic money or coins<br/>
+The Gupta period introduced gold coins<br/>
+Sher Shah Suri introduced first silver coins<br/>
 
 now there is still a problem
 the coins can be of two type
+
 1. Full bodied(metal value=face value(face value is amount mentioned on coin))
 2. token coins (value of metal < face value)
 
 we also have a coinage act which says melting or exploiting coins can lead to 7 years of
-imprisonment
+imprisonment<br/>
 
 there was a problem with full bodied coins
 for example i have a sack full of silver coins. Also I am an evil minded man,so i'll remove little amount of silver from each coin and make sell the silver.
@@ -66,8 +69,8 @@ conclusion Token coins are the best because there value is confirmed by the auth
 
 
 Cheers
-call comment or DM anytime for any clarification
-Contact or WA @ +917889187722
+comment or DM anytime for any clarification
+
 
 {% if page.comments %}
 

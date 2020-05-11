@@ -23,7 +23,7 @@ comments: true
 **Day 2**<br/>
 **Dated 2/5/2020;**<br/>
 **Topic** :: Paper and electronic currency<br/>
-Yesterday we discussed the evolution of money from barter system to coins. Today we seek to explore the functioning of paper money or Legal Tender.
+Yesterday we discussed the evolution of money from barter system to coins. Today we seek to explore the functioning of paper money or Legal Tender.<br/>
 Term for today
 Fiduciary money: Fiduciary money refers to money backed up by trust between the payer and payee
 Types<br/>
@@ -32,7 +32,7 @@ Types<br/>
 
 The legal tender of a currency is further of two types<br/>
 1. Limited Legal Tender:: under coinage act states that it (coins) can be use to settle a limited amount of debt like anyone can legally reject a payment in 50p for amount above Rs 10. And same goes for other coin denominations with limit of 1000rs.<br/>
-2.Unlimited legal Tender::Under RBI act 1934 Every note is unlimited legal tender but with reasonable restriction of rs 3L after denomination<br/>
+2. Unlimited legal Tender::Under RBI act 1934 Every note is unlimited legal tender but with reasonable restriction of rs 3L after denomination<br/>
 
 Fiat currency:: currency notes form a system if fiat currency where binding to the command of government a currency can settle debt which no one can refuse.
 
@@ -63,14 +63,15 @@ I promise to pay the bearer the sum of ____rupees
 This clause grantees that the person with the note can approach any RBI branch to prove the value of note. Though the fact is ignored by everyone of us but this clause is the main reason behind the value of a piece of paper.
 Earlier the physical asset used was GOLD..yes RBI had permission to print currency notes against the Gold reserves, and you could legally approach the RBI governor to get the underlying gold in exchange of your owned currency note.
 But now we have shifted to Minimum Foreign reserve system
-Here instead of Gold the INR is backed by securities (investments) in foreign reserves.
+Here instead of Gold the INR is backed by securities (investments) in foreign reserves.<br/>
 
- **Bank Money and Digital Transactions**
+ **Bank Money and Digital Transactions**<br/>
 
-Cheque ::  it is a legally binding non fiat type of medium of exchange of money. There can be three types of non fiat money.
+Cheque ::  it is a legally binding non fiat type of medium of exchange of money. There can be three types of non fiat money.<br/>
 1.	Simple bank cheque: 3Parties : We all are familiar with this type
-2.	A Bill of Exchange:: it is a legal agreement stating that is there are three persons say Bholla, Laddu and Babla, say Bholla Singh has to give Laddu a sum of 10K but he does not have money and Laddu needs money immediately, so Bholla goes to Babla and says that is babla can pay laddu on a bill of exchange means babla will clear the amount of laddu for bholla singh but will receive money after sometime when bholla arranges, This bill of exchange is written on a legal paper with Revenue stamps.
+2.	A Bill of Exchange:: it is a legal agreement stating that is there are three persons say Bholla, Laddu and Babla, say Bholla Singh has to give Laddu a sum of 10K but he does not have money and Laddu needs money immediately, so Bholla goes to Babla and says that is Babla can pay laddu on a bill of exchange means babla will clear the amount of laddu for bholla singh but will receive money after sometime when bholla arranges, This bill of exchange is written on a legal paper with Revenue stamps.
 <img style="float:right;" src="https://i.postimg.cc/26Nn0y3C/Format-Bills-of-Exchange.png" width="600" height="200">
+
 3.	Promissory note:: It is a signed document containing a written promise to pay a stated sum to a specified person or the bearer at a specified date or on demand
 
 **Types of Cheques**
@@ -81,7 +82,7 @@ Classification
 3.	Ante dated:: Cheque issued before the date of contract or deal.
 2.	Based on Crossing::
 1.	Open cheque :: the check with no crossing is an open cheque and can be cashed for bearer. This poses risk of exploitation on loss of cheque.
-2.	General Crossing :: A cheque having two parallel lines made on top left corner represents that the cheque can be paid only into a bank account of the person with name on it.
+2.	General Crossing :: A cheque having two parallel lines made on top left corner represents that the cheque can be paid only into a bank account of the person with name on it.<br/>
 
 Now how do you request your bank to process a cheque in your account?
 Once you reach you bank, Write your account number and phone number on backside of the cheque you’ve got. And drop it into a box kept at bank named as cheque drop box.
