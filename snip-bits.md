@@ -42,4 +42,7 @@ Regulatories are satutory and powerfull organizations that controll and regulate
 2...Ever held a coin in your hand and felt, Where it was made, Well you can if 
 you read till end [Coin Mints](/fortheloveofnifty/snip-bits/coin-mints.html))
 
-</em><br/>
+<br/>
+
+3...Everything that you need to know about blockcahin basics
+ [bitcoin and blockchains](/fortheloveofnifty/snip-bits/Blockchain and Bitcoin.html)
