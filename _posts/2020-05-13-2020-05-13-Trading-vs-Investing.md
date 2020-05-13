@@ -23,7 +23,7 @@ author: Anubhav Gupta
 **Trading vs Investing** <br/>
 **snippet** Today we will define the fundamental differences between trading and investing.<br/>
 
-This often a general confusion and a public notion that trading and investment are similar terms. But these have a lot more subtle differences. lets see this through a plot <br/>
+This is often a general confusion and a public notion that trading and investment are similar terms. But these have a lot more subtle differences. lets see this through a plot <br/>
 <img style="float:left; margin-right: 20px" src="https://i.postimg.cc/4dhBTx5j/Capture.jpg">
 
 
@@ -51,6 +51,23 @@ Here are some interesting patterns<br/>
 3. Activity Analysis : How efficiently can a company generate sales from capital it employs.
 4. Solvency Analysis : How efficiently company would covet long term debt
 
-I hope that you can now clearly differentiate and choose a suited path . either you would invest or trade to earn a future<br/>
+I hope that you can now clearly differentiate and choose a suited path . either you would invest or trade to earn a fortune<br/>
 
 Happy learning
+
+
+
+{% if page.comments %}
+
+<div id="disqus_thread"></div>
+<script>
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://https-gupta-anubhav12-github-io-fortheloveofnifty.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+{% endif %}
