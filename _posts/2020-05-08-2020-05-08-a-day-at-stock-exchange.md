@@ -1,10 +1,9 @@
 ---
-layout: post
 title: P7-A-Day-At-Stock-Exchange
-date: 2020-05-08 16:06
+date: 2020-05-08 16:06:00 Z
+layout: post
 author: Anubhav Gupta
 comments: true
-
 ---
 
 <style>

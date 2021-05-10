@@ -1,10 +1,10 @@
 ---
-layout: post
 title: Block chain and Bitcoin
+layout: post
 author: Anubhav Gupta
 comments: true
-
 ---
+
 <style>
    header{
       

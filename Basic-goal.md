@@ -1,9 +1,10 @@
 ---
-layout: page
 title: Goal
-permalink: /Goal/
+permalink: "/Goal/"
+layout: page
 author: Anubhav Gupta
 ---
+
 <style>
 
            .post-title{

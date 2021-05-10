@@ -1,9 +1,10 @@
 ---
-layout: post
 title: P12-Trading-vs-Investing
-date: 2020-05-13 17:30 
+date: 2020-05-13 17:30:00 Z
+layout: post
 author: Anubhav Gupta
 ---
+
 <style>
     header{
       

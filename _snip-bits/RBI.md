@@ -1,10 +1,10 @@
 ---
+title: RBI
 layout: post
-title: RBI 
 author: Anubhav Gupta
 comments: true
-
 ---
+
 <style>
    header{
       

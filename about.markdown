@@ -1,8 +1,9 @@
 ---
+title: About Me
+permalink: "/about/"
 layout: page
-title: About Me 
-permalink: /about/
 ---
+
 <style>
   
   body{

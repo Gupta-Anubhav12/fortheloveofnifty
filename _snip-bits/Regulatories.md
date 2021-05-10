@@ -1,6 +1,6 @@
 ---
-layout: page
 title: REGULATORIES
+layout: page
 comments: true
 ---
 

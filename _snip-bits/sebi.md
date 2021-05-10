@@ -1,9 +1,10 @@
 ---
-layout: post
 title: SEBI
+layout: post
 author: Anubhav Gupta
 comments: true
 ---
+
 <style>
    header{
       

@@ -1,9 +1,8 @@
 ---
+title: IRDA
 layout: post
-title: IRDA 
 author: Anubhav Gupta
 comments: true
-
 ---
 
 <style>

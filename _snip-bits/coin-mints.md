@@ -1,10 +1,10 @@
 ---
-layout: post
 title: Coin Mints
+layout: post
 author: Anubhav Gupta
 comments: true
-
 ---
+
 <style>
    header{
       

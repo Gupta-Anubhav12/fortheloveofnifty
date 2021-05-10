@@ -1,9 +1,10 @@
 ---
+title: Soiled and Mutilated Notes
 layout: post
-title: Soiled and Mutilated Notes 
 author: Anubhav Gupta
 comments: true
 ---
+
 <style>
    header{
       

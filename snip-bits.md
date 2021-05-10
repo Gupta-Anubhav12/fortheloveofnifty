@@ -1,8 +1,8 @@
 ---
-layout: page
 title: Fin-bits
-
+layout: page
 ---
+
 <style>
   body{
     background-image: url("https://i.postimg.cc/9fTSxVSK/course-1015601.jpg");
