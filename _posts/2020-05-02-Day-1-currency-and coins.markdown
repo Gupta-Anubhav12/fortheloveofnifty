@@ -1,3 +1,8 @@
+---
+title: Day 1 Currency And coins
+date: 2020-05-02 00:00:00 Z
+---
+
 # Layer your Player: How to get the most of your skin care products by Layering
 In order to make the most of your skincare routine, you must understand the function of each product and the importance 
 of layering. Layering is the process of applying the products in a set order to ensure that they can perform their role 
